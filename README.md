@@ -13,7 +13,6 @@ Python, SQL, Power BI, Excel (Advanced), and AppSheet — developing data-driven
 ___
 
 
-## 💻 Tecnologies
 ## 💻 Technologies
 
 ### 🐍 Programming & Data
